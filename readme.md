@@ -1,4 +1,4 @@
-# Proyectos del curso basico de java en openBootcamp
+# Curso basico Java en OpenBootcamp
 
 ![Tumbail](./Opb.png)
 
